@@ -1,12 +1,25 @@
-# React + Vite
+# 📚 React Library App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and modular library app built with **React**, showcasing a list of custom books with dynamic search and a favorites system. This project demonstrates component-based design, React Hooks, and basic state management for adding/removing favorite books.
 
-Currently, two official plugins are available:
+##  🔗 Demo : https://book-library-saeid-behjat.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 **Dynamic Search**: Search through the book list in real time.
+- ❤️ **Favorites List**: Add or remove books from a favorites list.
+- 🧠 **State Management**: Managed entirely with React Hooks.
+- 💾 **Custom Data**: Each book contains a title, author, image, and language.
+- 🧩 **Component-Based Structure**: Clean and modular components for better maintainability.
+- 📁 **React Icons**: Interactive icons for better UI/UX.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- **HTML** & **CSS**
+- **JavaScript (ES6+)**
+- **React.js**
+- **React Hooks (useState, useEffect)**
+- **React Icons**
+
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/9388d678-9d4c-489d-b120-1d32b7718897)
