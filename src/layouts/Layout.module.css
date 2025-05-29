@@ -2,16 +2,19 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #303030;
-    padding: 10px 20px;
+    background-color: #183B4E;
+    padding: 20px 20px;
     margin-bottom: 80px;
     border-radius: 10px;
+    color: #F3F3EE;
 }
 
 .footer {
     text-align: center;
-    background-color: #303030;
+    background-color: #183B4E;
     padding: 20px;
     margin-top: 80px;
     border-radius: 10px;
+    color: #F3F3EE;
+    font-weight: 600;
 }
